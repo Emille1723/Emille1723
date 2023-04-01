@@ -7,7 +7,7 @@
 - Frontend Frameworks & Tools
   - HTML
   - CSS
-  - Javascript(Vanilla & Typescript)
+  - Javascript(Vanilla, jQuery, Typescript)
   - React
   - Redux & Redux-Toolkit
   - SASS(SCSS)
