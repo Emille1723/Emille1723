@@ -1,5 +1,31 @@
 ### Hi there 👋
 
+- :rocket: I'm Emille, a Full-Stack Software Engineer
+- :seedling: I'm currently keeping my Data Structures & Algorithms fresh with studying over some topics and usign LeetCode  
+- :telescope: I have experience in building scalable web applications with the following technologies
+
+- Frontend Frameworks & Tools
+  - HTML
+  - CSS
+  - Javascript(Vanilla & Typescript)
+  - React
+  - Redux
+  - Redux-Toolkit
+  - SASS(SCSS)
+  - Vue: Currently learning
+  
+- Backend Frameworks & Tools
+  - NodeJS(Typescript, Express, Sails)
+  - Python(Flask & Django)
+  - PHP(Phalcon & Laravel: Currently learning, so far I've found it to be very similar to Django)
+
+- Databases & Stores
+  - MySQL
+  - OracleDB
+  - PostgreSQl
+  - MongoDB
+  - Redis
+
 <!--
 **Emille1723/Emille1723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
