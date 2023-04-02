@@ -2,7 +2,7 @@
 
 - :rocket: I'm Emille, a Full-Stack Software Engineer
 - :seedling: I'm currently keeping my Data Structures & Algorithms fresh with studying over some topics and using LeetCode  
-- :telescope: I work primarily in Typescript environments to build scalable web applications. However I also have experience with the following technologies
+- :telescope: I work primarily in Typescript environments to build scalable web applications. I also have experience working in the following technologies
 
 - Frontend Frameworks & Tools
   - HTML
