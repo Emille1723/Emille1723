@@ -21,11 +21,11 @@
 - Databases & Stores
   - MySQL
   - OracleDB
-  - PostgreSQl
+  - PostgreSQL
   - MongoDB
   - Redis
 
-- Other Tooling
+- Containerization
   - Docker
 
 <!--
