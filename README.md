@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greeting 👋
 
 - :rocket: I'm Emille, a Full-Stack Software Engineer
 - :seedling: I'm currently keeping my Data Structures & Algorithms fresh with studying over some topics and using LeetCode  
