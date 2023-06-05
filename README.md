@@ -14,7 +14,7 @@
   - Vue: Currently learning
   
 - Backend Frameworks & Tools
-  - NodeJS(Typescript, Express, Sails)
+  - NodeJS(Express, Sails)
   - Python(Flask & Django)
   - PHP(Phalcon & Laravel: Currently learning, so far I've found it to be very similar to Django)
 
