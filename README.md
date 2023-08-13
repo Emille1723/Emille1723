@@ -1,9 +1,15 @@
-### Greetings 👋
+## Hello :wave:
 
-- :rocket: I'm Emille, a Full-Stack Software Engineer
+<u></u>
+##### :rocket: I'm Emille, a Full-Stack Software Engineer
+<u></u>
 - :seedling: I'm currently keeping my Data Structures & Algorithms fresh with studying over some topics and using LeetCode  
 - :telescope: I work primarily in Typescript environments to build scalable web applications. I also have experience working in the following technologies
 
+- :wrench: Things I can do
+- :desktop_computer: Programming languages: Typescript, Javascript / NodeJS, Python, C#
+- :computer: Frameworks & Tools: SCSS, Flask, Django, ExpressJS, React, Vue, Redux/Redux-Toolkit, JQuery, Laravel, Phalcon, ASP.Net
+- :clipboard: Databases: SQL(PostgreSQL, MySQL, OracleDB), NOSQL(MongoDB, Redis)
 - Frontend Frameworks & Tools
   - HTML
   - CSS
