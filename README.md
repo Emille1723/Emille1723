@@ -17,7 +17,7 @@
 
 - :weight_lifting_man: Powerlifting
 - :keyboard: Coding
-- :running_man: Open Source
+- :night_with_stars: Open Source
 - :mountain: Hiking
 <!--
 - :airplane: Travel
