@@ -13,7 +13,7 @@
 
 ##### :telescope: Things i'm learning about
 
-- :seedling: I'm improving my problem solving skills by practising leetcode and building more complex practice projects
+- :seedling: I'm improving my problem solving skills by practising leetcode and building more complex personal projects
 
 <!-- ##### :muscle: Things I do for fun -->
 ##### :electron: Things I do for fun
