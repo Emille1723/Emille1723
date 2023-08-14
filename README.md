@@ -2,7 +2,8 @@
 
 ##### :rocket: I'm Emille, a Full-Stack Software Engineer
 
-##### :wrench: Things I can do
+<!-- ##### :wrench: Things I can do -->
+##### ⚡ Things I can do
 
 - :desktop_computer: Programming languages: Typescript, Javascript / NodeJS, Python, C#
 - :computer: Frameworks & Tools: SCSS, Flask, Django, ExpressJS, React, Vue, Redux/Redux-Toolkit, JQuery, Laravel, Phalcon, ASP.Net
