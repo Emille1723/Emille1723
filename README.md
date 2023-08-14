@@ -8,6 +8,7 @@
 - :computer: Frameworks & Tools: SCSS, Flask, Django, ExpressJS, React, Vue, Redux/Redux-Toolkit, JQuery, Laravel, Phalcon, ASP.Net
 - :clipboard: Databases: SQL(PostgreSQL, MySQL, OracleDB), NOSQL(MongoDB, Redis)
 - :open_book: DevOps, Containerization & Version Control: Linux, Microsoft Azure & Azure Devops, Git/GitHub, Docker, Podman
+- :mag: Problem Solving
 
 ##### :telescope: Things i'm learning about
 
