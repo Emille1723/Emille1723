@@ -13,7 +13,8 @@
 
 - :seedling: I'm improving my problem solving skills by practising leetcode and building more complex practice projects
 
-##### :muscle: Things I do for fun
+<!-- ##### :muscle: Things I do for fun -->
+##### :electron: Things I do for fun
 
 - :weight_lifting_man: Powerlifting
 - :keyboard: Coding
