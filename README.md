@@ -8,12 +8,15 @@
 - :desktop_computer: Programming languages: Typescript, Javascript / NodeJS, Python, C#
 - :computer: Frameworks & Tools: SCSS, Flask, Django, ExpressJS, React, Vue, Redux/Redux-Toolkit, JQuery, Laravel, Phalcon, ASP.Net
 - :clipboard: Databases: SQL(PostgreSQL, MySQL, OracleDB), NOSQL(MongoDB, Redis)
-- :open_book: DevOps, Containerization & Version Control: Linux, Microsoft Azure & Azure Devops, Git/GitHub, Docker, Podman
+- :open_book: DevOps, Containerization & Version Control: Linux, Microsoft Azure & Azure Devops, Git/GitHub, Docker
 - :mag: Problem Solving
 
 ##### :telescope: Things i'm learning about
 
 - :seedling: I'm improving my problem solving skills by practising leetcode and building more complex personal projects
+- :seedling: Web Sockets
+- :seedling: gRPC
+- :seedling: Podman
 
 <!-- ##### :muscle: Things I do for fun -->
 ##### :electron: Things I do for fun
