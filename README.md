@@ -1,6 +1,6 @@
 ## Hello :wave:
 
-##### :rocket: I'm Emille, a Full-Stack Software Engineer
+##### :rocket: I'm Emille, a Software Engineer
 
 <!-- ##### :wrench: Things I can do -->
 ##### ⚡ Things I can do
