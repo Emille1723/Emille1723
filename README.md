@@ -6,7 +6,7 @@
 ##### ⚡ Things I can do
 
 - :desktop_computer: Programming languages: Typescript, Javascript / NodeJS, Python, C#, Lua
-- :computer: Frameworks & Tools: SCSS, Flask, Django, ExpressJS, React, Vue, Redux/Redux-Toolkit, JQuery, Laravel, Phalcon, ASP.Net
+- :computer: Frameworks & Tools: SCSS, Flask, Django, GraphQL, ExpressJS, React, Vue, Redux/Redux-Toolkit, JQuery, Laravel, Phalcon, ASP.Net
 - :clipboard: Databases: SQL(PostgreSQL, MySQL, OracleDB), NOSQL(MongoDB, Redis)
 - :open_book: DevOps, Containerization & Version Control: Linux, Microsoft Azure & Azure Devops, Git/GitHub, Docker
 - :mag: Problem Solving
