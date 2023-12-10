@@ -1,4 +1,4 @@
-## Hello :wave:
+## Hello 🤙🏾
 
 ##### :rocket: I'm Emille, a Software Engineer
 
