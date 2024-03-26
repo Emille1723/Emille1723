@@ -13,9 +13,11 @@
 
 ##### :telescope: Things i'm learning about
 
-- :seedling: I'm improving my problem solving skills by practising leetcode and building more complex personal projects
+- :seedling: I'm improving my problem solving skills by practising leetcode, code wars and building some more complex personal projects
 - :seedling: Web Sockets
 - :seedling: gRPC
+- :seedling: Go
+- :seedling: React Native
 - :seedling: Podman
 
 <!-- ##### :muscle: Things I do for fun -->
