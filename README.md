@@ -37,7 +37,8 @@
 
 ##### :keyboard: My Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emille1723&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emille1723&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emille1723&layout=compact&theme=gruvbox&langs_count=10&hide=html,css,makefile)](https://github.com/SeniorMars/github-readme-stats)
 
 
 <!--
