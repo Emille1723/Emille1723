@@ -33,12 +33,13 @@
 
 ##### :bar_chart: My Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Emille1723&theme=dark&background=000000)](https://git.io/streak-stats)
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Emille1723&theme=dark&background=000000)](https://git.io/streak-stats)-->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Emille1723&layout=compact&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
 ##### :keyboard: My Top Languages
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emille1723&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emille1723&layout=compact&theme=gruvbox&langs_count=10&hide=html,css,makefile)](https://github.com/SeniorMars/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emille1723&layout=compact&theme=vision-friendly-dark)](https://github.com/Emille1723/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emille1723&layout=compact&theme=dracula&show_icons=true&hide_border=true&langs_count=100&hide=html,css,makefile)](https://github.com/Emille1723/github-readme-stats)
 
 
 <!--
