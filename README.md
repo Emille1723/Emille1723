@@ -19,6 +19,7 @@
 - :seedling: Go
 - :seedling: React Native
 - :seedling: Podman
+- :seedling: Nix
 
 <!-- ##### :muscle: Things I do for fun -->
 ##### :electron: Things I do for fun
