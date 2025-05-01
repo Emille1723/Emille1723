@@ -5,9 +5,9 @@
 <!-- ##### :wrench: Things I can do -->
 ##### ⚡ Things I can do
 
-- :desktop_computer: Programming languages: Typescript, Javascript / NodeJS, C#, Python, Php, Lua
-- :computer: Frameworks & Tools: SCSS, Dotnet, Flask, Django, GraphQL, ExpressJS, React, Vue, Redux/Redux-Toolkit, JQuery, Laravel, Phalcon
-- :clipboard: Databases: SQL(PostgreSQL, MySQL, OracleDB, SQL Server), NOSQL(MongoDB, Redis)
+- :desktop_computer: Programming languages: Typescript, Javascript / NodeJS, C#, Python, Php, Lua, Go, Nix
+- :computer: Frameworks & Tools: SCSS, Dotnet, Flask, Django, GraphQL, ExpressJS, React, Vue, Redux/Redux-Toolkit, JQuery, Laravel, Phalcon, Echo
+- :clipboard: Databases: SQL(PostgreSQL, MySQL, OracleDB, MSSQL), NOSQL(MongoDB, Redis)
 - :open_book: DevOps, Containerization & Version Control: Linux, Microsoft Azure & Azure Devops, Git/GitHub, Docker
 - :mag: Problem Solving
 
