@@ -5,13 +5,13 @@
 <!-- ##### :wrench: Things I can do -->
 ##### ⚡ Things I can do
 
-- :desktop_computer: Programming languages: Typescript, Javascript / NodeJS, C#, Python, Php, Lua, Go, Nix
+- :desktop_computer: Programming languages: Typescript, Javascript / NodeJS, C#, Python, Php, Lua, Go, Nix, Rust
 - :computer: Frameworks & Tools: SCSS, Dotnet, Flask, Django, GraphQL, ExpressJS, React, Vue, Redux/Redux-Toolkit, JQuery, Laravel, Phalcon, Echo
 - :clipboard: Databases: SQL(PostgreSQL, MySQL, OracleDB, MSSQL), NOSQL(MongoDB, Redis)
 - :open_book: DevOps, Containerization & Version Control: Linux, Microsoft Azure & Azure Devops, Git/GitHub, Docker
 - :mag: Problem Solving
 
-##### :telescope: Things i'm learning about
+##### :telescope: Things i'm learning about deeply
 
 - :seedling: I'm improving my problem solving skills by practising leetcode, code wars and building some more complex personal projects
 - :seedling: Web Sockets
