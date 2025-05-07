@@ -15,6 +15,8 @@
 
 - :seedling: I'm improving my problem solving skills by practising leetcode, code wars and building some more complex personal projects
 - :seedling: Web Sockets
+- :seedling: -ve Space Programming
+- :seedling: Rust
 - :seedling: gRPC
 - :seedling: Go
 - :seedling: React Native
