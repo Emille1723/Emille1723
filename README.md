@@ -14,7 +14,6 @@
 ##### :telescope: Things i'm learning about deeply
 
 - :seedling: I'm improving my problem solving skills by practising leetcode, code wars and building some more complex personal projects
-- :seedling: Web Sockets
 - :seedling: -ve Space Programming
 - :seedling: Rust
 - :seedling: gRPC
@@ -22,6 +21,7 @@
 - :seedling: React Native
 - :seedling: Podman
 - :seedling: Nix
+- :seedling: Elixir
 
 <!-- ##### :muscle: Things I do for fun -->
 ##### :electron: Things I do for fun
