@@ -18,7 +18,6 @@
 - :seedling: Rust
 - :seedling: gRPC
 - :seedling: Go
-- :seedling: React Native
 - :seedling: Podman
 - :seedling: Nix
 - :seedling: Elixir
