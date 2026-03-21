@@ -1,9 +1,9 @@
 <!-- https://www.vectorlogo.zone/?q=echo -->
 ## Hello 🤙🏾
 
-#### :rocket: I'm Emille, a Programmer
+#### :rocket: **```$ I'm Emille, a Programmer```**
 
-#### ⚡ Things I can do
+#### ⚡ **```$ Things I can do```**
 
 ##### :desktop_computer: **```$ Programming languages```**
 
@@ -32,7 +32,8 @@
 
 ##### :framed_picture: Design Patterns
 
-##### :telescope: Things I'm learning about deeply
+
+#### :telescope: **```$ Things I'm learning about deeply```**
 
 - :seedling: I'm improving my problem solving skills by practising leetcode, code wars and building some more complex personal projects
 - :seedling: -ve Space Programming
@@ -44,7 +45,7 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" alt="Nix Flakes" width="15" height="15"/> Nix Flakes
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" alt="Elixir" width="15" height="15"/> Elixir
 
-##### :hammer_and_wrench: Tools I work with everyday
+#### :hammer_and_wrench: **```$ Tools I work with everyday```**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="Neovim" width="15" height="15"/> Neovim
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tmux/tmux-plain.svg" alt="Tmux" width="15" height="15"/> Tmux
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="15" height="15"/> Bash
@@ -54,7 +55,7 @@
           
 
 <!-- ##### :muscle: Things I do for fun -->
-##### :electron: Things I do for fun
+#### :electron: **```$ Things I do for fun```**
 
 - :weight_lifting_man:  Powerlifting
 - :keyboard:  Coding
@@ -62,12 +63,12 @@
 - :mountain:  Hiking
 - :airplane:  Travel
 
-##### :bar_chart: My Stats
+#### :bar_chart: **```$ My Stats```**
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Emille1723&theme=dark&background=000000)](https://git.io/streak-stats)-->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Emille1723&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
-##### :keyboard: My Top Languages
+#### :keyboard: **```$ My Top Languages```**
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emille1723&layout=compact&theme=vision-friendly-dark)](https://github.com/Emille1723/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emille1723&theme=dracula&show_icons=true&hide_border=true&hide_progress=true&langs_count=20&hide=html,css,makefile)](https://github.com/Emille1723/github-readme-stats)
