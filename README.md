@@ -12,17 +12,35 @@
   - Familiar
     - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="Php" width="20" height="20"/>
            
-- :computer: Frameworks & Tools: SCSS, Dotnet, Flask, Django, GraphQL, ExpressJS, React, Vue, Redux/Redux-Toolkit, JQuery, Laravel, Phalcon, Echo
-- :clipboard: Databases: SQL(PostgreSQL, MySQL, OracleDB, MSSQL), NOSQL(MongoDB, Redis)
-- :open_book: DevOps, Containerization & Version Control: Linux, Microsoft Azure & Azure Devops, Git/GitHub, Docker
+- :computer: Frameworks & Tools
+  - Proficient
+    - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" alt="Nodejs" width="25" height="25"/> <img height="20" width="20" src="https://cdn.simpleicons.org/express/F68108" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="GraphQL" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="Sass" width="25" height="25"/> <img height="20" width="20" src="https://cdn.simpleicons.org/flask/F68108" /> <img height="20" width="20" src="https://cdn.simpleicons.org/django/F68108" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="Redux" width="25" height="25"/> <img height="20" width="20" src="https://cdn.simpleicons.org/pinia/F68108" /> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" alt="Mongoose" width="25" height="25"/>
+
+  - Could be Better
+    - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" alt="Dotnet" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="DotnetCore" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" alt="JQuery" width="25" height="25"/> <img height="20" width="20" src="https://cdn.simpleicons.org/echo/F68108" /> 
+  
+  - Familiar
+    - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-line-wordmark.svg" alt="Laravel" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phalcon/phalcon-original.svg" alt="Phalcon" width="25" height="25"/>
+       
+- :clipboard: Databases
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="Postgress" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Mssql" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" alt="Redis" width="25" height="25"/>
+
+- :open_book: DevOps, Containerization & Version Control
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" alt="Git" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="Azure Dev Ops" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/podman/podman-original.svg" alt="Podman" width="25" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" alt="Nix Flakes" width="25" height="25"/>
+  
+- :computer: Operating System: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="25" height="25"/> <img height="20" width="20" src="https://cdn.simpleicons.org/wsl/F68108" /> 
+          
 - :mag: Problem Solving
+
+- :framed_picture: Design Patterns
 
 ##### :telescope: Things I'm learning about deeply
 
 - :seedling: I'm improving my problem solving skills by practising leetcode, code wars and building some more complex personal projects
 - :seedling: -ve Space Programming
 <!-- ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) -->
-- <img height="15" width="15" src="https://cdn.simpleicons.org/rust/00ccff" /> Rust
+- <img height="15" width="15" src="https://cdn.simpleicons.org/rust/F68108" /> Rust
 - :seedling: gRPC
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" width="15" height="15"/> Go
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/podman/podman-original.svg" alt="Podman" width="15" height="15"/> Podman
