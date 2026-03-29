@@ -74,10 +74,10 @@
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Emille1723&theme=dark&background=000000)](https://git.io/streak-stats)-->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Emille1723&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
-#### :keyboard: **```$ My Top Languages```**
+<!-- #### :keyboard: **```$ My Top Languages```**-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emille1723&layout=compact&theme=vision-friendly-dark)](https://github.com/Emille1723/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emille1723&theme=dracula&show_icons=true&hide_border=true&hide_progress=true&langs_count=20&hide=html,css,makefile)](https://github.com/Emille1723/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emille1723&theme=dracula&show_icons=true&hide_border=true&hide_progress=true&langs_count=20&hide=html,css,makefile)](https://github.com/Emille1723/github-readme-stats)-->
 
 
 <!--
