@@ -47,8 +47,7 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" width="15" height="15"/> Go (Paused)
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/podman/podman-original.svg" alt="Podman" width="15" height="15"/> Podman
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" alt="Nix Flakes" width="15" height="15"/> Nix Flakes
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" alt="Elixir" width="15" height="15"/> Elixir
- (Paused)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" alt="Elixir" width="15" height="15"/> Elixir (Paused)
 #### :hammer_and_wrench: **```$ Tooling I work with everyday```**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="Neovim" width="15" height="15"/> Neovim
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tmux/tmux-plain.svg" alt="Tmux" width="15" height="15"/> Tmux
