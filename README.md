@@ -42,9 +42,9 @@
 - :seedling: I'm improving my problem solving skills by practising leetcode, code wars and building some more complex personal projects
 - :seedling: -ve Space Programming
 <!-- ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) -->
-- <img height="30" width="15" src="https://cdn.simpleicons.org/rust/F68108" /> Rust
+- <img height="30" width="15" src="https://cdn.simpleicons.org/rust/F68108" /> Rust (Paused)
 - :seedling: gRPC
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" width="15" height="15"/> Go (Paused)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" width="15" height="15"/> Go
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/podman/podman-original.svg" alt="Podman" width="15" height="15"/> Podman
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" alt="Nix Flakes" width="15" height="15"/> Nix Flakes
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" alt="Elixir" width="15" height="15"/> Elixir (Paused)
