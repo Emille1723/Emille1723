@@ -72,7 +72,7 @@
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Emille1723&theme=dark&background=000000)](https://git.io/streak-stats)-->
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Emille1723&theme=dracula&hide_border=true)](https://git.io/streak-stats) -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Emille1723)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Emille1723)]
 
 <!-- #### :keyboard: **```$ My Top Languages```**-->
 
